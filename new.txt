@@ -1,2 +1,4 @@
 this is a new file
 created a feature branch.
+
+New changes added in feature branch
